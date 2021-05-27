@@ -1,0 +1,26 @@
+.required
+{
+    color: red;
+}
+
+form {
+    padding-left: 150px;
+    padding-right: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+form-group form-check {
+    text-align: center;
+
+}
+
+.emptyarea {
+    color: #8d8f8e;
+    font-size: 15px;
+}
+
+.info {
+    color: #8d8f8e;
+}
+
